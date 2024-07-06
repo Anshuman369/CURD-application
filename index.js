@@ -7,5 +7,6 @@ app.get('/', function (req, res) {
 
 console.log("check")
 console.log("making second")
+console.log("third")
 
 app.listen(3000)
